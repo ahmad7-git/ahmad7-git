@@ -42,7 +42,7 @@ Je recherche une **alternance DevOps / Cloud de 1 à 3 ans à partir de septembr
 
 ## Me contacter
 
-- [Découvrir mon portfolio](https://ahmed-sylla-devops.ahmadseka8940.chatgpt.site)
+- [Découvrir mon portfolio](https://ahmad7-git.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/ahmed-sylla-897848250)
 
 Je suis disponible pour échanger autour d'une opportunité en **DevOps, Cloud, automatisation ou développement logiciel**.
