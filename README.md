@@ -28,11 +28,23 @@ Je recherche une **alternance DevOps / Cloud de 1 à 3 ans à partir de septembr
 
 - Prise de notes et accompagnement d'étudiants en situation de handicap
 
-## Projets
+## Projets sélectionnés
 
-- **Eggscape :** jeu d'arcade responsive développé en JavaScript avec Canvas 2D, Webpack et tests automatisés
-- **Boutique React :** interface e-commerce structurée en composants avec React et JavaScript
-- **ANOVA :** optimisation et fiabilisation d'une application métier pendant mon stage
+### [Le Nuage Doux](https://github.com/ahmad7-git/le-nuage-doux)
+
+Boutique React industrialisée avec Docker, GitHub Actions, Terraform et AWS.
+
+[Code source](https://github.com/ahmad7-git/le-nuage-doux) · [Démonstration](https://ahmad7-git.github.io/demos/boutique-react/)
+
+### [Eggscape](https://github.com/ahmad7-git/eggscape)
+
+Jeu d'arcade responsive développé en JavaScript avec Canvas 2D, Webpack et tests automatisés.
+
+[Code source](https://github.com/ahmad7-git/eggscape) · [Démonstration](https://ahmad7-git.github.io/demos/eggscape/)
+
+### ANOVA
+
+Optimisation et fiabilisation d'une application métier pendant mon stage. Le code et les données sont confidentiels.
 
 ## Formation
 
